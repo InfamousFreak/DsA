@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
+## Math
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
