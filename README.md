@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
 | ------- |
