@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
+| [3875-construct-uniform-parity-array-i](https://github.com/InfamousFreak/DsA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/InfamousFreak/DsA/tree/master/0836-rectangle-overlap) |
+| [3875-construct-uniform-parity-array-i](https://github.com/InfamousFreak/DsA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
