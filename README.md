@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/InfamousFreak/DsA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -79,15 +81,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/InfamousFreak/DsA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/InfamousFreak/DsA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -100,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/InfamousFreak/DsA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
