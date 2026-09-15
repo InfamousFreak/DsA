@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/InfamousFreak/DsA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/InfamousFreak/DsA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/InfamousFreak/DsA/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/InfamousFreak/DsA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/InfamousFreak/DsA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
