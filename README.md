@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/InfamousFreak/DsA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/InfamousFreak/DsA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
