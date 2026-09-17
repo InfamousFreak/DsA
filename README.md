@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InfamousFreak/DsA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/InfamousFreak/DsA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/InfamousFreak/DsA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/InfamousFreak/DsA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/InfamousFreak/DsA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InfamousFreak/DsA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/InfamousFreak/DsA/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
