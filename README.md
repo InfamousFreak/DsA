@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0856-score-of-parentheses) |
 | [2409-count-days-spent-together](https://github.com/InfamousFreak/DsA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/InfamousFreak/DsA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0856-score-of-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0032-longest-valid-parentheses) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/InfamousFreak/DsA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0856-score-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
