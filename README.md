@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/InfamousFreak/DsA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0301-remove-invalid-parentheses) |
 | [0784-letter-case-permutation](https://github.com/InfamousFreak/DsA/tree/master/0784-letter-case-permutation) |
 ## Bracket Sequences
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0301-remove-invalid-parentheses) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/InfamousFreak/DsA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
