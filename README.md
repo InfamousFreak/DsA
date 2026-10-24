@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/InfamousFreak/DsA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/InfamousFreak/DsA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InfamousFreak/DsA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/InfamousFreak/DsA/tree/master/0032-longest-valid-parentheses) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/InfamousFreak/DsA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Two Pointers
 |  |
