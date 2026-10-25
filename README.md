@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InfamousFreak/DsA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/InfamousFreak/DsA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/InfamousFreak/DsA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/InfamousFreak/DsA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/InfamousFreak/DsA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/InfamousFreak/DsA/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/InfamousFreak/DsA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InfamousFreak/DsA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
