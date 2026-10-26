@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/InfamousFreak/DsA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/InfamousFreak/DsA/tree/master/2395-find-subarrays-with-equal-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/InfamousFreak/DsA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/InfamousFreak/DsA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/InfamousFreak/DsA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/InfamousFreak/DsA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/InfamousFreak/DsA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/InfamousFreak/DsA/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/InfamousFreak/DsA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/InfamousFreak/DsA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/InfamousFreak/DsA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/InfamousFreak/DsA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,4 +200,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/InfamousFreak/DsA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/InfamousFreak/DsA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
